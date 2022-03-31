@@ -1,6 +1,6 @@
 {
     
-  "name": "Elaina",
+  "name": "MADARA",
   "description": "A WhatsApp Bot With Rich NSFW Features based on chitoge.",
   "keywords": [
       "bot",
@@ -13,7 +13,7 @@
       "whatsapp-botto"
   ],
   "website": "https://github.com/Ronen6999/Elaina-bot/blob/main/README.md",
-  "repository": "https://github.com/Ronen6999/Elaina-bot.git",
+  "repository": "https://github.com/akuma240/Elaina-bot.git",
   "logo": "https://i.ibb.co/kqPYDT9/Elaina.png555",
   "success_url": "/",
   "env": {
