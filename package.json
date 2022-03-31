@@ -25,7 +25,7 @@
     "bugs": {
         "url": "https://github.com/ShineiIchijo/Chitoge/issues"
     },
-    "homepage": "https://github.com/Ronen6999/Elaina-bot/blob/main/README.md",
+    "homepage": "https://github.com/akuma240/Elaina-bot/blob/main/README.md",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
