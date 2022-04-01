@@ -97,9 +97,9 @@ export default class MessageHandler {
 			if (!command)
 			return void M.reply( await request.buffer(`https://c.tenor.com/xpH2ERD2tkkAAAPo/madara-madara-uchiha.mp4`),
                     MessageType.video,
-                    Mimetype.gif,
+                    Mimetype.gif, 
                     undefined,
-                    `No such command! Have you never seen someone use the command *${this.client.config.prefix}help*`,
+                    ` "The longer you live... The more you realize that reality is just made of pain, suffering, and emptiness." use *${this.client.config.prefix}help*`,
                     undefined
                 )
 		const user = await this.client.getUser(M.sender.jid);
