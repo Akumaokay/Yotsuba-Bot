@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/iamherok/Cara_public"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" alt="chitoge" border="0"></a>
 
-# **Yotsuba : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+# **MADARA : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -9,7 +9,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Whatup364/Chitoge/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/animefutaba/Yotsuba-Bot.git)
 
 </div><br/>
 <br/>
