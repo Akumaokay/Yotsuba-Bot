@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
 	run = async (M: ISimplifiedMessage): Promise<void> => {
 		const chitoge =
-			"https://c.tenor.com/NvYI5wQNfgUAAAPo/nakano-yotsuba-pout.mp4";
+			"https://media.tenor.com/videos/3bd38ceac75b0db13012f43ae66b02f5/mp4";
 		return void this.client.sendMessage(
 			M.from,
 			{ url: chitoge },
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `I don't have time to have a conversation with someone like you. Use something from *${this.client.config.prefix}help* list if you want anything. \n`,
+				caption: `In this world, wherever there is light-there are also shadows. use *${this.client.config.prefix}help* list if you want anything. \n`,
 			}
 		);
 	};
