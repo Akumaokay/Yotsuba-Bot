@@ -35,7 +35,7 @@ export default class Command extends BaseCommand {
         } catch (err) {
             M.reply(`Profile Picture not Accessible of ${username}`)
             pfp =
-                'https://www.linkpicture.com/q/OIP-depositphotos-bgremover.png'
+                'https://i.ibb.co/T2SGpzD/fe076bdb314f0d8208bb420b8c60d98a.jpg'
         }
         const exp = (await this.client.getUser(user)).Xp
         let role: string;
