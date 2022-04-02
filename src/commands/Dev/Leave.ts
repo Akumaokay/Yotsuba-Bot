@@ -19,11 +19,11 @@ export default class Command extends BaseCommand {
     }
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
-    await M.reply( await request.buffer(`https://safebooru.org/samples/3069/sample_10a3b5dc359a1367eabca4a18ccb1235f2de51fd.jpg?3194721`),
+    await M.reply( await request.buffer(`https://i.ibb.co/T2SGpzD/fe076bdb314f0d8208bb420b8c60d98a.jpg`),
         MessageType.image,
                     undefined,
                     undefined,
-                    `*Sayonara Mina* 👋\n`,
+                    `*Goodbye akuma* ☮️\n`,
                     undefined
                     ).catch((reason: any) =>
                     M.reply(`✖ An error occurred. Please try again later.`))
