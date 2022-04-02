@@ -25,7 +25,7 @@ export default class Command extends BaseCommand {
         if (!videos || videos.length <= 0) return void M.reply(`⚓ No Matching videos found for the term : *${term}*`)
         const video = new YT(videos[0].url, 'video')
         if (!video.url) return
-        M.reply('⚡ Sending...')
+        M.reply('☮️ Sending...')
         this.client
             .sendMessage(M.from, await video.getBuffer(), MessageType.video, {
                 quoted: M.WAMessage,
