@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ibb.co/9ZgTcqk/IMG-20220403-WA0173.jpg" alt="chitoge" border="0"></a>
+<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ibb.co/tmdNhZ1/IMG-20220403-WA0172.jpg" alt="chitoge" border="0"></a>
 
 # **ONE PIECE : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
