@@ -25,7 +25,7 @@
     "bugs": {
         "url": "https://github.com/ShineiIchijo/Chitoge/issues"
     },
-    "homepage": "https://github.com/animefutaba/Yotsuba-Bot#readme",
+    "homepage": "https://github.com/Akumaokay/Yotsuba-Bot#readme",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
