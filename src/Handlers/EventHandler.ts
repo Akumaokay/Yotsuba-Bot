@@ -26,7 +26,7 @@ export default class EventHandler {
 					? `My Goodness, *@${
 							event.participants[0].split("@")[0]
 					  }* 💀, You Almost Scared me to Death." But I'm already Dead. Yohohoho!.`
-					: `Talk about peace *@${
+					: `looks like Marimo idiot. *@${
 							event.participants[0].split("@")[0]
 					  }* got ${this.client.util.capitalize(event.action)}d${
 							event.actor ? ` by @${event.actor.split("@")[0]}` : ""
