@@ -43,9 +43,10 @@ export default class Command extends BaseCommand {
 				}
 			}
             let text = `
- I'M THE GHOST OF THE UCHIHA!
+ Kaizoku ou ni ore wa naru 🏴‍☠️
+ 
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: MADARA
+│⋊ ℕ𝕒𝕞𝕖: One Piece
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
 │⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
 │⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://chat.whatsapp.com/HIt2mmeCX6l9CCO0wiC5J3
@@ -60,7 +61,7 @@ export default class Command extends BaseCommand {
             return void this.client.sendMessage(M.from, { url: chitoge }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption: `${text} 
- ──❅┈[ MADARA BOT ]┈❅───
+ ──❅┈[ luffy BOT ]┈❅───
 ┌────────────┈❅
 │   🧨 akuma
 │   ©️ ՏYᑎTᕼᗴՏIᘔᗴᗪ IᑎᖴIᑎITY
