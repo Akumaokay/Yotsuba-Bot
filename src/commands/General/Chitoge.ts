@@ -9,10 +9,10 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "madara",
+			command: "luffy",
 			description: "Displays the info",
 			category: "general",
-			usage: `${client.config.prefix}madara`,
+			usage: `${client.config.prefix}luffy`,
 			baseXp: 2000,
 		});
 	}
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `☮️ *MADARA* ☮️\n\n🍀 *Description: A WhatsApp Bot With Rich NSFW features based on chitoge.*\n\n🌐 *OFFICIAL BOT URL: https://github.com/animefutaba/Yotsuba-Bot.git* \n\n 📒 *Guide: https://github.com/animefutaba/Yotsuba-Bot.git* \n\n 👾 *BOT URL:https://github.com/animefutaba/Yotsuba-Bot.git* \n`,
+				caption: `🏴‍☠️ *luffy* 🏴‍☠️\n\n🍀 *Description: A WhatsApp Bot With Rich NSFW features based on chitoge.*\n\n🌐 *OFFICIAL BOT URL: https://github.com/animefutaba/Yotsuba-Bot.git* \n\n 📒 *Guide: https://github.com/animefutaba/Yotsuba-Bot.git* \n\n 👾 *BOT URL:https://github.com/animefutaba/Yotsuba-Bot.git* \n`,
 			}
 		);
 	};
