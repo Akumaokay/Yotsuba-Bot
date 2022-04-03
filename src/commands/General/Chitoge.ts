@@ -9,10 +9,10 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "MADARA",
+			command: "madara",
 			description: "Displays the info",
 			category: "general",
-			usage: `${client.config.prefix}MADARA`,
+			usage: `${client.config.prefix}madara`,
 			baseXp: 2000,
 		});
 	}
