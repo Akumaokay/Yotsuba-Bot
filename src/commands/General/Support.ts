@@ -23,7 +23,7 @@ export default class Command extends BaseCommand {
            MessageType.text
         ))
         const n = [
-            'https://telegra.ph/file/76418f82312dec923b56c.mp4'
+            'https://c.tenor.com/1KXSpvnwoi0AAAPo/luffy-luffy-vs-kaiod.mp4'
         ]
         let beckylynch = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url:beckylynch }, MessageType.video, {quoted:M.WAMessage,
