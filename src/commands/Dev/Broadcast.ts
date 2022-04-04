@@ -31,7 +31,7 @@ export default class Command extends BaseCommand {
 		const gifs = [
 			"https://telegra.ph/file/d8385198967ccf1c56e54.mp4",
 			
-			"https://c.tenor.com/1KXSpvnwoi0AAAPo/luffy-luffy-vs-kaiod.mp4",
+			"https://telegra.ph/file/76418f82312dec923b56c.mp4",
 		];
 		const selected = gifs[Math.floor(Math.random() * gifs.length)];
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
